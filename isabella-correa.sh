@@ -1,2 +1,2 @@
 echo Isabella-Corrêa
-mkdir correa-isabella
+mkdir isabella-correa
